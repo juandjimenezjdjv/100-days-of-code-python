@@ -1,0 +1,20 @@
+/* Tag selector */
+h1{
+    color: red;
+}
+img:hover {
+    background-color: gold;
+}
+
+/* Class selector */
+.bacon {
+    background-color: orange;
+}
+.broccoli {
+    background-color: greenyellow;
+}
+
+/* Id selectors */
+#heading {
+    color: aqua;
+}
